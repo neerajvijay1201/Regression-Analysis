@@ -1,0 +1,6 @@
+1.Read the dataset 
+2.EDA(exploratory data analysis),FE(feature engineering)
+3.Divide  our dataset into independent and dependent features
+4.Further divide the dataset into train and test
+5.Standard scaling on the train and test data 
+6.Model training 
